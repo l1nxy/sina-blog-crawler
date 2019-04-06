@@ -1,0 +1,12 @@
+[package]
+name = "sina-blog-crawler"
+version = "0.1.0"
+authors = ["linxy <l1nxy.zy@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.13"
+regex = "1"
+select = "0.4.2"
+
+
